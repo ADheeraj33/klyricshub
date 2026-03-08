@@ -5,7 +5,7 @@
 <h2>BTS</h2>
 <ul>
   <li>
-    <a href="https://raw.githubusercontent.com/adheeraj33/klyricshub/main/BTS/BE/Life%20Goes%20On%20-%20BE.lrc" target="_blank">
+    <a href="https://raw.githubusercontent.com/adheeraj33/klyricshub/main/Life%20Goes%20On%20-%20BE.lrc" target="_blank">
       Life Goes On
     </a>
   </li>
