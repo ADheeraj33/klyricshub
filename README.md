@@ -5,7 +5,7 @@
 <h2>BTS</h2>
 <ul>
   <li>
-    <a href="Life%20Goes%20On%20-%20BE.lrc" download >
+    <a href="src_files/Life%20Goes%20On%20-%20BE.lrc" download >
       Life Goes On
     </a>
   </li>
